@@ -1,0 +1,17 @@
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\bin\Debug\net6.0\Zadanie4Order.exe
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\bin\Debug\net6.0\Zadanie4Order.deps.json
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\bin\Debug\net6.0\Zadanie4Order.runtimeconfig.json
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\bin\Debug\net6.0\Zadanie4Order.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\bin\Debug\net6.0\Zadanie4Order.pdb
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.csproj.AssemblyReference.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.AssemblyInfoInputs.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.AssemblyInfo.cs
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.csproj.CoreCompileInputs.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\refint\Zadanie4Order.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.pdb
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.genruntimeconfig.cache
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\ref\Zadanie4Order.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\bin\Debug\net6.0\Leaf.xNet.dll
+Y:\Работа институт\Разработка студней\BD\Zadanie4\Zadanie4\Zadanie4Order\obj\Debug\net6.0\Zadanie4Order.csproj.CopyComplete
