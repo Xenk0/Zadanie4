@@ -5,4 +5,4 @@ Service 2 - is intended for storing information about goods in the warehouse.
 Implement asynchronous interaction between services using your choice of:
 - message queues
 - rest api
--grpc
+- grpc
